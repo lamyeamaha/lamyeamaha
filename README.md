@@ -3,7 +3,7 @@
 ![App developer, AI enthusiast, content writer and a social introvert](https://github.com/lamyeamaha/lamyeamaha/blob/main/banner.png)
 
 # Hello World 👋, I am Lamyea Maha
-I am Lamyea and I love to develop projects as I learn new things. This gives me hands-on experience and allows me to showcase my technical abilities. I have worked on designing and developing websites, however, now I am more interested in exploring AI, ML, and DL and applying them to solve real-life problems.
+I am Lamyea and I love to develop projects as I learn new things. This gives me hands-on experience and allows me to showcase my technical abilities. I am currently exploring AI, ML, and DL and applying them to solve real-life problems. 
 
 ## Skills:
 <!--https://github.com/tandpfun/skill-icons#icons-list-->
